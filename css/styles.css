@@ -66,16 +66,18 @@ a{
 .skill-row {
     width: 50%;
     margin: 100px auto;
-    text-align: left;
     line-height: 2;
-     
-}
-
-.net-pic {
-    width: 25%;
+    text-align: left;
 }
 
 .person-pic {
-    width: 25%;
+    width: 35%;
+    float: left;
+    margin-right: 50px;
+}
 
+.net-pic {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
 }
