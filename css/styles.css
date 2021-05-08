@@ -62,3 +62,20 @@ a{
     height: 250px;
     width: 250px;
 }
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+     
+}
+
+.net-pic {
+    width: 25%;
+}
+
+.person-pic {
+    width: 25%;
+
+}
