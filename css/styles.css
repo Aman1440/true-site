@@ -32,7 +32,7 @@ a{
 }
 
 .top-container{
-    background-color: cyan;
+    background-color: rgb(148, 231, 231);
     position:relative;
     padding-top:100px;
 }
@@ -56,4 +56,9 @@ a{
     position: absolute;
     right: 200px;
     top: 50px;
+}
+
+.profilepic {
+    height="250px";
+    width="250px";
 }
