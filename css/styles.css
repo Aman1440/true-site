@@ -33,6 +33,16 @@ p{
     line-height: 2;
 
 }
+hr{
+    border: dotted;
+    color: #5fad9c;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    width: 4%;
+    margin: 100px auto;    
+}
+
 
 .subtitle{
     font-weight: normal;
