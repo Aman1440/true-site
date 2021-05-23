@@ -49,9 +49,17 @@ p{
 }
 
 .bottom-container {
-   background-color: #668f86;
-   paddin
+   background-color: #5fad9c;
+   padding: 50px;
 }
+
+.footer-link{
+    padding: 20px;
+    color:whitesmoke;
+    
+
+}
+
 
 .bottom-cloud{
     position: absolute;
