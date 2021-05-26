@@ -1,4 +1,2 @@
-# true-site
-A website to showcase the skills 
-
- https://aman1440.github.io/true-site/
+Its a go-to site to know me more..
+Its a in progress site there are enhancement to be done in content and addition of experience section in the site.
